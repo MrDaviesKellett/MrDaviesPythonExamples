@@ -1,7 +1,7 @@
 # MrDaviesPythonExamples
 
 ## subtitle
-** This is some bold text**
+**This is some bold text**
 
 * Unordered List
   * one
